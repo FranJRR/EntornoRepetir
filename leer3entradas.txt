@@ -1,0 +1,22 @@
+Escribir Pseudocódigo que lea de entrada 3 números y que indique cual es el mayor de ellos.
+
+Inicio 
+Programa:leer3Entradas
+modulo:principal
+Variables A,B,C = enteros.
+Imprimir "Introduce los datos a comparar: " pedir A,B,C
+
+Si A<B y A<C entonces
+       Imprime "El mayor es: " A
+
+     Sino
+
+       Si B>A y B>C entonces
+
+        Imprime "El mayor es: "B
+
+        sino
+
+          Imprime "El mayor es: ", c
+
+Fin.
