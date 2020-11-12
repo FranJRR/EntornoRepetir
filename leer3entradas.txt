@@ -17,6 +17,6 @@ Si A<B y A<C entonces
 
         sino
 
-          Imprime "El mayor es: ", c
+          Imprime "El mayor es: ", C
 
 Fin.
